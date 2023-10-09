@@ -3,6 +3,7 @@
 Simulation code for 
 
 (1) Zero-Inflated Negative Binomial Regression Model with fixed effects (ZINBF)
+
 (2) Zero-Inflated Negative Binomial Regression Model with random effects (ZINBR)
 
 Reference
